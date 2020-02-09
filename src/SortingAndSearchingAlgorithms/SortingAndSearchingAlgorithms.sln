@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29512.175
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{2EA85F89-9D3D-4719-A83E-3F0F754ABE4A}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA85F89-9D3D-4719-A83E-3F0F754ABE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA85F89-9D3D-4719-A83E-3F0F754ABE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA85F89-9D3D-4719-A83E-3F0F754ABE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA85F89-9D3D-4719-A83E-3F0F754ABE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
